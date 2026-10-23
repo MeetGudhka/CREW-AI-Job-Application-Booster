@@ -1,0 +1,16 @@
+
+# CrewAI agents and tools
+crewai
+crewai-tools
+
+# FastAPI backend
+fastapi
+uvicorn[standard]
+
+# Environment variables
+python-dotenv
+
+# Resume parsing and PDF generation
+pypdf
+reportlab
+python-multipart
